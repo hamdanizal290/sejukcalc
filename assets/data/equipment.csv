@@ -1,0 +1,20 @@
+Jenis,W,Fu,Fr,Fl,Tipe
+Oven listrik,2000,0.42,0.17,0.0714,Convection oven (listrik)
+Microwave,1000,0.42,0.17,0.0714,Convection oven (listrik)
+Oven Gas,5000,0.42,0.2,0.084,Convection oven (gas)
+Kompor Listrik,1500,0.34,0.46,0.1564,Open-top range (listrik)
+Kompor Gas,1000,0.34,0.17,0.0578,Open-top range (gas)
+Air Fryer,1000,0.06,0.43,0.0258,Fryer (listrik)
+Rice Cooker,500,0.13,0.3,0.039,Steam cooker (listrik)
+Toaster Oven,1000,0.42,0.17,0.0714,Convection oven (listrik)
+Alat Panggang Listrik,1500,0.16,0.45,0.072,Griddle (listrik)
+"TV LED kecil (32"")",30,0.25,1,0.25,
+"TV LED besar (55"")",90,0.25,1,0.25,
+Kulkas 1 pintu,100,1,1,1,
+Kulkas 2 pintu,150,1,1,1,
+Freezer,100,1,1,1,
+Komputer desktop,250,0.25,1,0.25,
+Laptop,30,0.25,1,0.25,
+Printer,30,0.020833333,1,0.020833333,
+Mesin Cuci,400,0.041666667,1,0.041666667,
+Dispenser Air,100,1,1,1,

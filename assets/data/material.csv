@@ -1,0 +1,28 @@
+Jenis,Material,R,Tipe
+Roofing,Asbes Papan,0.037,
+Roofing,Aspal Roll,0.027,
+Roofing,Aspal Papan,0.078,
+Roofing,Batu Tulis,0.009,
+Roofing,Kayu,0.166,
+Roofing,Tanah Liat,0.018867925,
+Plester,Semen,0.013888889,
+Wall,Bata Merah,0.125786164,3
+Wall,Bata Ringan,0.375,3
+Wall,Batako,0.185,4
+Wall,Kayu,0.178571429,1
+Floor,Karpet,0.3,
+Floor,Keramik,0.014,
+Floor,Karet,0.06,
+Window,Kaca,0.169204738,
+RoofStructureNCeiling,Kayu/Tanpa Langit-langit,0.125,1
+RoofStructureNCeiling,Kayu/Gipsum,0.18125,4
+RoofStructureNCeiling,Kayu/PVC,0.191666667,4
+RoofStructureNCeiling,Kayu/Triplek,0.185,4
+RoofStructureNCeiling,Batako/Tanpa Langit-langit,0.075,2
+RoofStructureNCeiling,Batako/Gipsum,0.13125,3
+RoofStructureNCeiling,Batako/PVC,0.141666667,3
+RoofStructureNCeiling,Batako/Triplek,0.135,3
+RoofStructureNCeiling,Dek Besi/Tanpa Langit-langit,0.005,1
+RoofStructureNCeiling,Dek Besi/Gipsum,0.06125,1
+RoofStructureNCeiling,Dek Besi/PVC,0.071666667,1
+RoofStructureNCeiling,Dek Besi/Triplek,0.065,1
